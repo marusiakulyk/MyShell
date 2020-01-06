@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/veronika/Desktop/shell_2/main.cpp
+iostream
+-
+fstream
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/wait.h
+-
+boost/filesystem.hpp
+-
+string
+-
+vector
+-
+iomanip
+-
+readline/readline.h
+-
+readline/history.h
+-
+wordexp.h
+-
+map
+-
+sys/stat.h
+-
+fcntl.h
+-
+
