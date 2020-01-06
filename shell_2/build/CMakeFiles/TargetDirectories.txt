@@ -1,3 +1,0 @@
-/home/veronika/Desktop/shell_2/build/CMakeFiles/rebuild_cache.dir
-/home/veronika/Desktop/shell_2/build/CMakeFiles/myshell.dir
-/home/veronika/Desktop/shell_2/build/CMakeFiles/edit_cache.dir
